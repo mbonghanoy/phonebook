@@ -1,0 +1,43 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "851031795ff0bacbfeda62d66bdd7a09",
+    "content-hash": "3e6499539ca09a8526ecebbffdc48801",
+    "packages": [
+        {
+            "name": "mjohn/vivid",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/mbonghanoy/vivid.git",
+                "reference": "182c5f26eef2b2aa696bf3e6c43c582819da2ee4"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "src"
+                ]
+            },
+            "authors": [
+                {
+                    "name": "mbonghanoy",
+                    "email": "bonghanoymark@gmail.com"
+                }
+            ],
+            "time": "2017-08-09 09:32:05"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "mjohn/vivid": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

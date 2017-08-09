@@ -1,0 +1,25 @@
+{
+    "name": "mbonghanoy/phonebook",
+    "description": "phonebook oop",
+    "type": "library",
+    "authors": [
+        {
+            "name": "mbonghanoy",
+            "email": "bonghanoymark@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    },
+    "repositories": [
+        {
+            "url": "https://github.com/mbonghanoy/vivid.git",
+            "type": "git"
+        }
+    ],
+    "require": {
+        "mjohn/vivid" : "dev-master"
+    }
+}
