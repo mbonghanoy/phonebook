@@ -13,7 +13,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/mbonghanoy/vivid.git",
-                "reference": "182c5f26eef2b2aa696bf3e6c43c582819da2ee4"
+                "reference": "da6590ccc95b6b1ad0db6d3dd4b1f0a1c866f1a9"
             },
             "type": "library",
             "autoload": {
@@ -27,7 +27,7 @@
                     "email": "bonghanoymark@gmail.com"
                 }
             ],
-            "time": "2017-08-09 09:32:05"
+            "time": "2017-08-10 05:15:34"
         }
     ],
     "packages-dev": [],
