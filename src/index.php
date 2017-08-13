@@ -28,6 +28,7 @@ $connection = new Vivid('localhost', 'root', 'password', 'phonebook');
             <td><?php echo $result->first_name ?></td>
             <td><?php echo $result->mobile_number ?></td>
             <td><a href="edit.php?id=<?php echo $result->user_id ?>">Edit</a></td>
+            <td><a href="delete.php?id=<?php echo $result->user_id ?>">Delete</a></td>
         </tr>
         <?php endforeach; ?>
     </table>

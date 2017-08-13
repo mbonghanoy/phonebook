@@ -28,7 +28,7 @@ $connection = new Vivid('localhost', 'root', 'password', 'phonebook');
             ->insert($data);
     }
     ?>
-    <form action="" method="POST">
+    <form action="add-contact.php" method="POST">
         <table>
             <tr>
                 <td>First Name:</td>
